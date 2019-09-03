@@ -4,6 +4,7 @@ import { css } from "@emotion/core";
 const base = css({
   textAlign: "center",
   fontSize: "24px",
+  lineHeight: "1.5",
   color: "darkblue",
 });
 
